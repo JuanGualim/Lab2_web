@@ -75,7 +75,7 @@ No se utilizó la etiqueta `<div>`.
 
 ## 🔗 Acceso
 
-El proyecto puede visualizarse en el servidor de la clase mediante la URL correspondiente.
+El proyecto puede visualizarse en el servidor de la clase mediante la URL : [Link lab3](http://35.239.29.236/24852/Lab3_web/)
 
 ---
 
